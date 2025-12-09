@@ -107,7 +107,7 @@ ascii_characters = {
     "z": "01111010"
 }
 
-# Main function which takes user input and passes arguement to the convert funtion
+# Main function which takes user input and passes arguement to the convert funtion 
 def main():
     text = input("Enter the text: ")
     convert(text)
