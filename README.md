@@ -10,7 +10,7 @@ A simple Python program that converts text into its ASCII binary representation.
 - **Case-sensitive**: Uppercase and lowercase letters are treated differently.
 - Supports letters, numbers, punctuation, and other ASCII characters.
 - Easy to extend by adding more ASCII characters or symbols.
-
+ 
 ---
 
 ## Installation
